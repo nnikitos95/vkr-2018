@@ -8,3 +8,6 @@
 * [Машинное зрение. Что это и как им пользоваться? Обработка изображений оптического источника, habr](https://habr.com/post/350918/)
 * [Материалы по к.з. вк](https://vk.com/topic-39001404_28733696)
 * [Видеолекции курса «Машинное обучение» Яндекс ШАД](https://yandexdataschool.ru/edu-process/courses/machine-learning)
+* [Unsupervised Abnormal Behavior Detection for Real-time
+Surveillance Using Observed History](https://pdfs.semanticscholar.org/dacd/5ae4d3ffd237281b7559f011ee59563d5fae.pdf)
+* Real-time Abnormal Motion Detection in Surveillance Video](http://www.ee.bgu.ac.il/~rrtammy/Publications/AbnMotionIcpr08.pdf)
